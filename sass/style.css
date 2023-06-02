@@ -432,7 +432,7 @@ body {
   }
   .text_mod {
     width: 290px;
-    height: 270px;
+    height: 280px;
     font-size: 14px;
     float: left;
     clear: both;
@@ -469,6 +469,7 @@ body {
     margin-right: 10px;
   }
   .main-image_mod {
+    margin-left: 20px;
     margin: 0 auto;
     margin-top: 20px;
     height: 230.8047485352px;
